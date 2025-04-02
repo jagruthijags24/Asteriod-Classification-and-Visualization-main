@@ -21,8 +21,3 @@ This project applies **machine learning** techniques to classify asteroids based
 - **99.62% Accuracy** with Decision Tree CV  
 - Performance comparison of different models  
 
-## Installation  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/Asteroid-Classification-ML.git
-   cd Asteroid-Classification-ML
